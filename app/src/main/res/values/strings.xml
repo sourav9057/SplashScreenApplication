@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashScreenApp</string>
+    <string name="bmt">bmt</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="application">Application</string>
+    <string name="splash_screen_application">Splash Screen Application</string>
+</resources>
